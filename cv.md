@@ -11,5 +11,7 @@
   + read
   + speak
   + swim
-  + love   
+  + love
+  + play cg
+  + draw
       
