@@ -14,4 +14,4 @@
   + love
   + play cg
   + draw
-      
+  + write    
